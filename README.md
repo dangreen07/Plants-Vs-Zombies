@@ -1,0 +1,2 @@
+## What this is?
+This is a plants vs zombies game that I made in 2022 in a week for a challenge, excuse the countless bugs. I thought it was decent so put it into github so I could delete this off my computer.

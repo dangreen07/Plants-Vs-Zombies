@@ -1,0 +1,16 @@
+resources\graphics\Plants\WallNut\WallNut\WallNut_0.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_1.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_2.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_3.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_4.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_5.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_6.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_7.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_8.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_9.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_10.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_11.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_12.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_13.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_14.png
+resources\graphics\Plants\WallNut\WallNut\WallNut_15.png

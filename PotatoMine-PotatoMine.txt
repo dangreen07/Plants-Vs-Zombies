@@ -1,0 +1,8 @@
+resources\graphics\Plants\PotatoMine\PotatoMine\PotatoMine_0.png
+resources\graphics\Plants\PotatoMine\PotatoMine\PotatoMine_1.png
+resources\graphics\Plants\PotatoMine\PotatoMine\PotatoMine_2.png
+resources\graphics\Plants\PotatoMine\PotatoMine\PotatoMine_3.png
+resources\graphics\Plants\PotatoMine\PotatoMine\PotatoMine_4.png
+resources\graphics\Plants\PotatoMine\PotatoMine\PotatoMine_5.png
+resources\graphics\Plants\PotatoMine\PotatoMine\PotatoMine_6.png
+resources\graphics\Plants\PotatoMine\PotatoMine\PotatoMine_7.png

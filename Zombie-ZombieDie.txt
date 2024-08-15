@@ -1,0 +1,10 @@
+resources\graphics\Zombies\NormalZombie\ZombieDie\ZombieDie_0.png
+resources\graphics\Zombies\NormalZombie\ZombieDie\ZombieDie_1.png
+resources\graphics\Zombies\NormalZombie\ZombieDie\ZombieDie_2.png
+resources\graphics\Zombies\NormalZombie\ZombieDie\ZombieDie_3.png
+resources\graphics\Zombies\NormalZombie\ZombieDie\ZombieDie_4.png
+resources\graphics\Zombies\NormalZombie\ZombieDie\ZombieDie_5.png
+resources\graphics\Zombies\NormalZombie\ZombieDie\ZombieDie_6.png
+resources\graphics\Zombies\NormalZombie\ZombieDie\ZombieDie_7.png
+resources\graphics\Zombies\NormalZombie\ZombieDie\ZombieDie_8.png
+resources\graphics\Zombies\NormalZombie\ZombieDie\ZombieDie_9.png
